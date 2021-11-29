@@ -1,4 +1,5 @@
 # BADS7105-Customer-Relationship-Management-Analytics-and-Intelligence-CRM-
+
 - [x] [01 Customer Lifetime Value (CLV) Dashboard](./01%20Customer%20Lifetime%20Value%20(CLV)%20Dashboard)
  [![](https://img.shields.io/badge/-Dashboard-blue)](#) [![](https://img.shields.io/badge/-Power--BI-green)](#)  
 - [x] [02 Customer Segmentation](./02%20Customer%20Segmentation)  
